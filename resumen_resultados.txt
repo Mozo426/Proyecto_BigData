@@ -1,0 +1,20 @@
+Registros originales: 244
+Registros despues de la limpieza: 243
+Promedio de cuenta: 19.81
+Promedio de propina: 3.00
+Promedio de personas por mesa: 2.57
+
+PROMEDIO DE CUENTA POR DIA
+
+Domingo: 21.42
+Sabado: 20.44
+Jueves: 17.76
+Viernes: 17.15
+
+CONCLUSION
+
+Se utilizo PySpark para leer y limpiar datos,
+calcular estadisticas y comparar el promedio de las 
+cuentas por dia. El domingo obtuvo el promedio mas alto
+entre los dias analizados. Se genero una grafica de barras
+para apoyar la interpretacion de los resultados.
